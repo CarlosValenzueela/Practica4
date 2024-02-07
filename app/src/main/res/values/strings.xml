@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="textKilos">Kilos</string>
+    <string name="textEstatura">Estatura</string>
+    <string name="textCalcular">Calcular</string>
+
+</resources>
